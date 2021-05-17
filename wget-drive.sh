@@ -1,3 +1,4 @@
+#!/bin/bash
 
 printf "Enter the drive link : "
 read -r link
