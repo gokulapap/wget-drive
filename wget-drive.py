@@ -1,4 +1,5 @@
 #/usr/bin/python3
+#script to download drive file links by wget
 
 from os import system
 
